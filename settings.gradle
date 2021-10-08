@@ -1,0 +1,4 @@
+rootProject.name = 'spring-adv'
+include 'payments'
+include 'payments-api'
+
